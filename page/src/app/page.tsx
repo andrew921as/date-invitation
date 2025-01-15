@@ -29,7 +29,7 @@ export default function DateInvitationAlbum() {
         className="bg-white rounded-lg shadow-xl p-8 max-w-3xl w-full text-center"
       >
         <h1 className="text-4xl font-bold text-rose-600 mb-6">Nuestra Historia Continua...</h1>
-        <p className="text-xl text-gray-700 mb-8">Una invitacion especia para mi nomvia</p>
+        <p className="text-xl text-gray-700 mb-8">Una invitacion especia para mi nomvia que cumple años</p>
         
         <div className="flex flex-col justify-center align-middle mx-auto items-center space-y-6 mb-12 lg:flex-row lg:space-x-12 lg:space-y-0">
           <PhotoFrame delay={0.2} rotation={-5} src={firstImage.src} alt="A beautyfull photo" caption="A beautyfull photo" />
